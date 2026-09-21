@@ -1,0 +1,1718 @@
+fileFormatVersion: 2
+guid: c494c5d988fbc024291d626b7385b78c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2942148075309240603
+    second: huruf kecil_0
+  - first:
+      213: -1955019403156354541
+    second: huruf kecil_1
+  - first:
+      213: 6303493328006862328
+    second: huruf kecil_2
+  - first:
+      213: 4229583512854358943
+    second: huruf kecil_3
+  - first:
+      213: 8930669351575397732
+    second: huruf kecil_4
+  - first:
+      213: -4184496661215634669
+    second: huruf kecil_5
+  - first:
+      213: -8913888174561778192
+    second: huruf kecil_6
+  - first:
+      213: 2492019044928896282
+    second: huruf kecil_7
+  - first:
+      213: -6406128062207216565
+    second: huruf kecil_8
+  - first:
+      213: 8525584388531442961
+    second: huruf kecil_9
+  - first:
+      213: -5258511295710601159
+    second: huruf kecil_10
+  - first:
+      213: 3960651318512115507
+    second: huruf kecil_11
+  - first:
+      213: 5414287103153981177
+    second: huruf kecil_12
+  - first:
+      213: 5451025060613161857
+    second: huruf kecil_13
+  - first:
+      213: -4352211749482904895
+    second: huruf kecil_14
+  - first:
+      213: 5350014175367049981
+    second: huruf kecil_15
+  - first:
+      213: 8407259267976391673
+    second: huruf kecil_16
+  - first:
+      213: 6272100684725308304
+    second: huruf kecil_17
+  - first:
+      213: 527253348427262534
+    second: huruf kecil_18
+  - first:
+      213: 7720675165703532019
+    second: huruf kecil_19
+  - first:
+      213: -5380652361174826774
+    second: huruf kecil_20
+  - first:
+      213: -7899130196397942949
+    second: huruf kecil_21
+  - first:
+      213: 3882469170823769604
+    second: huruf kecil_22
+  - first:
+      213: 6065676953483890430
+    second: huruf kecil_23
+  - first:
+      213: 7428280360463152190
+    second: huruf kecil_24
+  - first:
+      213: -7747162939725398157
+    second: huruf kecil_25
+  - first:
+      213: -6560898807346128731
+    second: huruf kecil_26
+  - first:
+      213: 8922256316641188323
+    second: huruf kecil_27
+  - first:
+      213: -7753000490109790631
+    second: huruf kecil_28
+  - first:
+      213: 1150090666930738982
+    second: huruf kecil_29
+  - first:
+      213: 5416505060187501026
+    second: huruf kecil_30
+  - first:
+      213: -942331809287485510
+    second: huruf kecil_31
+  - first:
+      213: 6619058841626232671
+    second: huruf kecil_32
+  - first:
+      213: -8523749755521388832
+    second: huruf kecil_33
+  - first:
+      213: 7881670045458176294
+    second: huruf kecil_34
+  - first:
+      213: -20590742593122995
+    second: huruf kecil_35
+  - first:
+      213: -4364880161958607633
+    second: huruf kecil_36
+  - first:
+      213: 3739139715500681861
+    second: huruf kecil_37
+  - first:
+      213: 7155509599212214820
+    second: huruf kecil_38
+  - first:
+      213: 7522330194509406844
+    second: huruf kecil_39
+  - first:
+      213: -3825929326000125578
+    second: huruf kecil_40
+  - first:
+      213: -1809420124537747097
+    second: huruf kecil_41
+  - first:
+      213: -9213775686427894188
+    second: huruf kecil_42
+  - first:
+      213: -883988698528200361
+    second: huruf kecil_43
+  - first:
+      213: -4739020406204127269
+    second: huruf kecil_44
+  - first:
+      213: 6350422254415950914
+    second: huruf kecil_45
+  - first:
+      213: -8930863559457487591
+    second: huruf kecil_46
+  - first:
+      213: -3962736894269442364
+    second: huruf kecil_47
+  - first:
+      213: -3858268767424304863
+    second: huruf kecil_48
+  - first:
+      213: 1371752212841680162
+    second: huruf kecil_49
+  - first:
+      213: -9079749737381222762
+    second: huruf kecil_50
+  - first:
+      213: -7070256447967658279
+    second: huruf kecil_51
+  - first:
+      213: -1860850276016527303
+    second: huruf kecil_52
+  - first:
+      213: -732207264638606396
+    second: huruf kecil_53
+  - first:
+      213: 9124744513473177346
+    second: huruf kecil_54
+  - first:
+      213: -8381585913506154915
+    second: huruf kecil_55
+  - first:
+      213: 1211614055664161562
+    second: huruf kecil_56
+  - first:
+      213: 1051417643940854
+    second: huruf kecil_57
+  - first:
+      213: -5443276764903349068
+    second: huruf kecil_58
+  - first:
+      213: -5496474576516873374
+    second: huruf kecil_59
+  - first:
+      213: 2612288454457270626
+    second: huruf kecil_60
+  - first:
+      213: -9009097027106432449
+    second: huruf kecil_61
+  - first:
+      213: -4413142268123666685
+    second: huruf kecil_62
+  - first:
+      213: -5927510394456949088
+    second: huruf kecil_63
+  - first:
+      213: -780734857735175741
+    second: huruf kecil_64
+  - first:
+      213: -9210866795202313474
+    second: huruf kecil_65
+  - first:
+      213: -6299922684756081548
+    second: huruf kecil_66
+  - first:
+      213: -4309378824306305258
+    second: huruf kecil_67
+  - first:
+      213: -2296126803323530264
+    second: huruf kecil_68
+  - first:
+      213: -5283106887718376898
+    second: huruf kecil_69
+  - first:
+      213: -653396099053388916
+    second: huruf kecil_70
+  - first:
+      213: -401050892274778971
+    second: huruf kecil_71
+  - first:
+      213: 872417158106569155
+    second: huruf kecil_72
+  - first:
+      213: -6941145552443971343
+    second: huruf kecil_73
+  - first:
+      213: 5225019124570335084
+    second: huruf kecil_74
+  - first:
+      213: -2837788207927857956
+    second: huruf kecil_75
+  - first:
+      213: 8843987183071266167
+    second: huruf kecil_76
+  - first:
+      213: -1723472142899103300
+    second: huruf kecil_77
+  - first:
+      213: -7175658415200734009
+    second: huruf kecil_78
+  - first:
+      213: 3086786202951603124
+    second: huruf kecil_79
+  - first:
+      213: -578623548707441856
+    second: huruf kecil_80
+  - first:
+      213: 3241882376327962541
+    second: huruf kecil_81
+  - first:
+      213: -5648548996162917943
+    second: huruf kecil_82
+  - first:
+      213: 9173900477994888094
+    second: huruf kecil_83
+  - first:
+      213: -1725842125561384767
+    second: huruf kecil_84
+  - first:
+      213: -4503422281713652718
+    second: huruf kecil_85
+  - first:
+      213: -4237877913082599429
+    second: huruf kecil_86
+  - first:
+      213: -4200855369456905757
+    second: huruf kecil_87
+  - first:
+      213: 2210362541503798326
+    second: huruf kecil_88
+  - first:
+      213: -5686090565794456622
+    second: huruf kecil_89
+  - first:
+      213: 8741898672674049963
+    second: huruf kecil_90
+  - first:
+      213: 7575326535953537024
+    second: huruf kecil_91
+  - first:
+      213: -6743039529784235454
+    second: huruf kecil_92
+  - first:
+      213: 859399240336275797
+    second: huruf kecil_93
+  - first:
+      213: -727753134322135014
+    second: huruf kecil_94
+  - first:
+      213: 6209577771803601642
+    second: huruf kecil_95
+  - first:
+      213: 2069480011237220322
+    second: huruf kecil_96
+  - first:
+      213: -8263867186346609802
+    second: huruf kecil_97
+  - first:
+      213: -1655551972059423796
+    second: huruf kecil_98
+  - first:
+      213: -936257636592714047
+    second: huruf kecil_99
+  - first:
+      213: 1831534928246971119
+    second: huruf kecil_100
+  - first:
+      213: 364286989528393478
+    second: huruf kecil_101
+  - first:
+      213: -9131673763703858891
+    second: huruf kecil_102
+  - first:
+      213: -1487386880352723793
+    second: huruf kecil_103
+  - first:
+      213: -4920499547118081469
+    second: huruf kecil_104
+  - first:
+      213: 8414072765154880148
+    second: huruf kecil_105
+  - first:
+      213: 5217557613589365258
+    second: huruf kecil_106
+  - first:
+      213: 9151545035882821269
+    second: huruf kecil_107
+  - first:
+      213: -6222242863062777347
+    second: huruf kecil_108
+  - first:
+      213: 8944799276995959143
+    second: huruf kecil_109
+  - first:
+      213: -2273376777417214860
+    second: huruf kecil_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: huruf kecil_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1308
+        width: 116
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b111869161c94d820800000000000000
+      internalID: 2942148075309240603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1021
+        width: 290
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a8ed106306ed4e0800000000000000
+      internalID: -1955019403156354541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_2
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1308
+        width: 163
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5d4e3d8c18a7750800000000000000
+      internalID: 6303493328006862328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_3
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1310
+        width: 156
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b688fabcf72ba30800000000000000
+      internalID: 4229583512854358943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_4
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1312
+        width: 163
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465ae13657c10fb70800000000000000
+      internalID: 8930669351575397732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_5
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1312
+        width: 116
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b1f60057eade5c0800000000000000
+      internalID: -4184496661215634669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_6
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1310
+        width: 156
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5a0bbdee18b4480800000000000000
+      internalID: -8913888174561778192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_7
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1303
+        width: 156
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dbe7a3e1e659220800000000000000
+      internalID: 2492019044928896282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_8
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 1303
+        width: 147
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b443a72f77cd817a0800000000000000
+      internalID: -6406128062207216565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_9
+      rect:
+        serializedVersion: 2
+        x: 4603
+        y: 1310
+        width: 137
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1155805b4d5f05670800000000000000
+      internalID: 8525584388531442961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1017
+        width: 296
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9306acb56d30607b0800000000000000
+      internalID: -5258511295710601159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_11
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1017
+        width: 279
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fd817c36f07f630800000000000000
+      internalID: 3960651318512115507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_12
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1017
+        width: 296
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6c8772f69632b40800000000000000
+      internalID: 5414287103153981177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_13
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1017
+        width: 288
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183899f696ee5ab40800000000000000
+      internalID: 5451025060613161857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_14
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1010
+        width: 281
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c24acc0976d993c0800000000000000
+      internalID: -4352211749482904895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_15
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 965
+        width: 288
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2be020c811f3a40800000000000000
+      internalID: 5350014175367049981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_16
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 1021
+        width: 295
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbe75ab2c59ca470800000000000000
+      internalID: 8407259267976391673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_17
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 1311
+        width: 157
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b498c775afa0750800000000000000
+      internalID: 6272100684725308304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_18
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 1310
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a64ab702e215700800000000000000
+      internalID: 527253348427262534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_19
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 1017
+        width: 225
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd60f54829552b60800000000000000
+      internalID: 7720675165703532019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_20
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 966
+        width: 247
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0ce487f251455b0800000000000000
+      internalID: -5380652361174826774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_21
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 1311
+        width: 155
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57932110f6a06290800000000000000
+      internalID: -7899130196397942949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_22
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 1017
+        width: 291
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e2b52042d41e530800000000000000
+      internalID: 3882469170823769604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_23
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 1017
+        width: 216
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe4ea64d0d9d2450800000000000000
+      internalID: 6065676953483890430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_24
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 826
+        width: 158
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34ba6191ad861760800000000000000
+      internalID: 7428280360463152190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_25
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 826
+        width: 112
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fb8904a5c8c7490800000000000000
+      internalID: -7747162939725398157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_26
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 821
+        width: 158
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a899dcbb4103f4a0800000000000000
+      internalID: -6560898807346128731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_27
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 821
+        width: 135
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9126c09d832db70800000000000000
+      internalID: 8922256316641188323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_28
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 826
+        width: 153
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9569393a12fc76490800000000000000
+      internalID: -7753000490109790631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_29
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 826
+        width: 154
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62716ed3e51f5ff00800000000000000
+      internalID: 1150090666930738982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_30
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 826
+        width: 154
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1f49487aa4b2b40800000000000000
+      internalID: 5416505060187501026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_31
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 826
+        width: 113
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab74ede463a2ce2f0800000000000000
+      internalID: -942331809287485510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_32
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 826
+        width: 154
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f574a8a72fe9bdb50800000000000000
+      internalID: 6619058841626232671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_33
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 826
+        width: 170
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee23d312ce85b980800000000000000
+      internalID: -8523749755521388832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_34
+      rect:
+        serializedVersion: 2
+        x: 4540
+        y: 826
+        width: 163
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6291f50c521516d60800000000000000
+      internalID: 7881670045458176294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 341
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d431624d8d6bff0800000000000000
+      internalID: -20590742593122995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 534
+        width: 284
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4ce4b6e94dc63c0800000000000000
+      internalID: -4364880161958607633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_37
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 534
+        width: 282
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a29fba2c714e330800000000000000
+      internalID: 3739139715500681861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_38
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 479
+        width: 287
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a11f7a11a7d4360800000000000000
+      internalID: 7155509599212214820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_39
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 483
+        width: 279
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72ade6f47fa46860800000000000000
+      internalID: 7522330194509406844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_40
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 534
+        width: 277
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67943047c8197eac0800000000000000
+      internalID: -3825929326000125578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_41
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 534
+        width: 274
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7690c73cbf5a3e6e0800000000000000
+      internalID: -1809420124537747097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_42
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 534
+        width: 277
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e955274d7122080800000000000000
+      internalID: -9213775686427894188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_43
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 534
+        width: 281
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75944c656f07bb3f0800000000000000
+      internalID: -883988698528200361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_44
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 534
+        width: 282
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd720e88c0e9b3eb0800000000000000
+      internalID: -4739020406204127269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_45
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 534
+        width: 325
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244b238f46b312850800000000000000
+      internalID: 6350422254415950914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_46
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 534
+        width: 299
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9154e0119e23f0480800000000000000
+      internalID: -8930863559457487591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_47
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 342
+        width: 158
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c63cb64ac78109c0800000000000000
+      internalID: -3962736894269442364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 826
+        width: 176
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129a0bd7ffca47ac0800000000000000
+      internalID: -3858268767424304863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_50
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 344
+        width: 195
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69622fd68bf3ef180800000000000000
+      internalID: -9079749737381222762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_51
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 0
+        width: 303
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9def8fb683761ed90800000000000000
+      internalID: -7070256447967658279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huruf kecil_52
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 52
+        width: 288
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938e8dd788eec26e0800000000000000
+      internalID: -1860850276016527303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6b7c3e7a941228d45a11f808b61c7a53
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      huruf kecil_0: 2942148075309240603
+      huruf kecil_1: -1955019403156354541
+      huruf kecil_10: -5258511295710601159
+      huruf kecil_100: 1831534928246971119
+      huruf kecil_101: 364286989528393478
+      huruf kecil_102: -9131673763703858891
+      huruf kecil_103: -1487386880352723793
+      huruf kecil_104: -4920499547118081469
+      huruf kecil_105: 8414072765154880148
+      huruf kecil_106: 5217557613589365258
+      huruf kecil_107: 9151545035882821269
+      huruf kecil_108: -6222242863062777347
+      huruf kecil_109: 8944799276995959143
+      huruf kecil_11: 3960651318512115507
+      huruf kecil_110: -2273376777417214860
+      huruf kecil_12: 5414287103153981177
+      huruf kecil_13: 5451025060613161857
+      huruf kecil_14: -4352211749482904895
+      huruf kecil_15: 5350014175367049981
+      huruf kecil_16: 8407259267976391673
+      huruf kecil_17: 6272100684725308304
+      huruf kecil_18: 527253348427262534
+      huruf kecil_19: 7720675165703532019
+      huruf kecil_2: 6303493328006862328
+      huruf kecil_20: -5380652361174826774
+      huruf kecil_21: -7899130196397942949
+      huruf kecil_22: 3882469170823769604
+      huruf kecil_23: 6065676953483890430
+      huruf kecil_24: 7428280360463152190
+      huruf kecil_25: -7747162939725398157
+      huruf kecil_26: -6560898807346128731
+      huruf kecil_27: 8922256316641188323
+      huruf kecil_28: -7753000490109790631
+      huruf kecil_29: 1150090666930738982
+      huruf kecil_3: 4229583512854358943
+      huruf kecil_30: 5416505060187501026
+      huruf kecil_31: -942331809287485510
+      huruf kecil_32: 6619058841626232671
+      huruf kecil_33: -8523749755521388832
+      huruf kecil_34: 7881670045458176294
+      huruf kecil_35: -20590742593122995
+      huruf kecil_36: -4364880161958607633
+      huruf kecil_37: 3739139715500681861
+      huruf kecil_38: 7155509599212214820
+      huruf kecil_39: 7522330194509406844
+      huruf kecil_4: 8930669351575397732
+      huruf kecil_40: -3825929326000125578
+      huruf kecil_41: -1809420124537747097
+      huruf kecil_42: -9213775686427894188
+      huruf kecil_43: -883988698528200361
+      huruf kecil_44: -4739020406204127269
+      huruf kecil_45: 6350422254415950914
+      huruf kecil_46: -8930863559457487591
+      huruf kecil_47: -3962736894269442364
+      huruf kecil_48: -3858268767424304863
+      huruf kecil_49: 1371752212841680162
+      huruf kecil_5: -4184496661215634669
+      huruf kecil_50: -9079749737381222762
+      huruf kecil_51: -7070256447967658279
+      huruf kecil_52: -1860850276016527303
+      huruf kecil_53: -732207264638606396
+      huruf kecil_54: 9124744513473177346
+      huruf kecil_55: -8381585913506154915
+      huruf kecil_56: 1211614055664161562
+      huruf kecil_57: 1051417643940854
+      huruf kecil_58: -5443276764903349068
+      huruf kecil_59: -5496474576516873374
+      huruf kecil_6: -8913888174561778192
+      huruf kecil_60: 2612288454457270626
+      huruf kecil_61: -9009097027106432449
+      huruf kecil_62: -4413142268123666685
+      huruf kecil_63: -5927510394456949088
+      huruf kecil_64: -780734857735175741
+      huruf kecil_65: -9210866795202313474
+      huruf kecil_66: -6299922684756081548
+      huruf kecil_67: -4309378824306305258
+      huruf kecil_68: -2296126803323530264
+      huruf kecil_69: -5283106887718376898
+      huruf kecil_7: 2492019044928896282
+      huruf kecil_70: -653396099053388916
+      huruf kecil_71: -401050892274778971
+      huruf kecil_72: 872417158106569155
+      huruf kecil_73: -6941145552443971343
+      huruf kecil_74: 5225019124570335084
+      huruf kecil_75: -2837788207927857956
+      huruf kecil_76: 8843987183071266167
+      huruf kecil_77: -1723472142899103300
+      huruf kecil_78: -7175658415200734009
+      huruf kecil_79: 3086786202951603124
+      huruf kecil_8: -6406128062207216565
+      huruf kecil_80: -578623548707441856
+      huruf kecil_81: 3241882376327962541
+      huruf kecil_82: -5648548996162917943
+      huruf kecil_83: 9173900477994888094
+      huruf kecil_84: -1725842125561384767
+      huruf kecil_85: -4503422281713652718
+      huruf kecil_86: -4237877913082599429
+      huruf kecil_87: -4200855369456905757
+      huruf kecil_88: 2210362541503798326
+      huruf kecil_89: -5686090565794456622
+      huruf kecil_9: 8525584388531442961
+      huruf kecil_90: 8741898672674049963
+      huruf kecil_91: 7575326535953537024
+      huruf kecil_92: -6743039529784235454
+      huruf kecil_93: 859399240336275797
+      huruf kecil_94: -727753134322135014
+      huruf kecil_95: 6209577771803601642
+      huruf kecil_96: 2069480011237220322
+      huruf kecil_97: -8263867186346609802
+      huruf kecil_98: -1655551972059423796
+      huruf kecil_99: -936257636592714047
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
